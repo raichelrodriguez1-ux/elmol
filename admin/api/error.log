@@ -1,0 +1,2867 @@
+[22-Oct-2025 03:23:40 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3 (Código: 42000)
+[22-Oct-2025 03:23:40 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3 (Código: 42000)
+[22-Oct-2025 03:24:30 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3 (Código: 42000)
+[22-Oct-2025 03:27:53 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:27:53 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:27:56 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:27:59 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:28:02 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:28:24 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:28:24 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:28:53 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:28:53 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:29:24 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:29:24 Europe/Berlin] API Error: Error de base de datos: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10' OFFSET '0'' at line 3
+[22-Oct-2025 03:38:17 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:38:17 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:38:17 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:38:17 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:38:20 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:38:20 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:38:30 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:38:30 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:39:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:39:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:39:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:39:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:39:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:39:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:41:22 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:41:22 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:41:22 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:41:22 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:41:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:41:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:45:31 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:45:31 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:45:31 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:45:31 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:46:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:46:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:46:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:46:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:46:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:46:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:14 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:14 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:16 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:16 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:48:38 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:48:38 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:50:06 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:50:06 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:50:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:50:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:51:06 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:51:06 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:51:06 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:51:06 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:51:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:51:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:52:47 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:52:47 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:52:47 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:52:47 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:52:49 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:52:49 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:56:05 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:56:05 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:56:05 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:56:05 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:56:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:56:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:57:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:57:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:57:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:57:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 03:57:43 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 03:57:43 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:02:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:02:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:02:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:02:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:02:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:02:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:03:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:03:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:03:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:03:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:03:32 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:03:32 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:04:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:04:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:04:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:04:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:04:14 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:04:14 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:04:30 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:04:30 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:04:30 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:04:30 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:04:31 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:04:31 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:02 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:02 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:14 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:14 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:38 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:38 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:09:51 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:09:51 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:07 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:07 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:07 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:07 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:36 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE (p.nombre LIKE ? OR p.descripcion LIKE ? OR p.marca LIKE ?) ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:36 Europe/Berlin] Parameters: Array
+(
+    [0] => %t%
+    [1] => %t%
+    [2] => %t%
+    [3] => 0
+    [4] => 10
+)
+
+[22-Oct-2025 04:10:36 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE (p.nombre LIKE ? OR p.descripcion LIKE ? OR p.marca LIKE ?) ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:36 Europe/Berlin] Parameters: Array
+(
+    [0] => %tv%
+    [1] => %tv%
+    [2] => %tv%
+    [3] => 0
+    [4] => 10
+)
+
+[22-Oct-2025 04:10:37 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE (p.nombre LIKE ? OR p.descripcion LIKE ? OR p.marca LIKE ?) ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:37 Europe/Berlin] Parameters: Array
+(
+    [0] => %t%
+    [1] => %t%
+    [2] => %t%
+    [3] => 0
+    [4] => 10
+)
+
+[22-Oct-2025 04:10:37 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:37 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:10:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE (p.nombre LIKE ? OR p.descripcion LIKE ? OR p.marca LIKE ?) ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:40 Europe/Berlin] Parameters: Array
+(
+    [0] => %r%
+    [1] => %r%
+    [2] => %r%
+    [3] => 0
+    [4] => 10
+)
+
+[22-Oct-2025 04:10:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE (p.nombre LIKE ? OR p.descripcion LIKE ? OR p.marca LIKE ?) ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:40 Europe/Berlin] Parameters: Array
+(
+    [0] => %re%
+    [1] => %re%
+    [2] => %re%
+    [3] => 0
+    [4] => 10
+)
+
+[22-Oct-2025 04:10:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE (p.nombre LIKE ? OR p.descripcion LIKE ? OR p.marca LIKE ?) ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:41 Europe/Berlin] Parameters: Array
+(
+    [0] => %r%
+    [1] => %r%
+    [2] => %r%
+    [3] => 0
+    [4] => 10
+)
+
+[22-Oct-2025 04:10:42 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:10:42 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:11:32 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:11:32 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:11:32 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:11:32 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:11:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:11:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:11:36 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:11:36 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:12:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:12:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:12:38 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE p.stock > 0 ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:12:38 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:12:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE p.stock = 0 ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:12:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:12:42 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id WHERE p.stock > 0 AND p.stock < 10 ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:12:42 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:12:44 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:12:44 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:13:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:13:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:13:12 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:13:12 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:13:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:13:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:13:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:13:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:13:16 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:13:16 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:32 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:32 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:43 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:43 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:14:43 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:14:43 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:16:26 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:16:26 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:17:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:17:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 04:17:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 04:17:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:33:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:33:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:33:48 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:33:48 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:38:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:38:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:57:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:57:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:57:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:57:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:58:18 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:58:18 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:58:18 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:58:18 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:58:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:58:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:58:37 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:58:37 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:58:37 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:58:37 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:59:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:59:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:59:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:59:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 05:59:16 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 05:59:16 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 14:00:59 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 14:00:59 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 14:00:59 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 14:00:59 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 14:01:02 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 14:01:02 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 14:02:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 14:02:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:18:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:18:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:18:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:18:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:26:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:26:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:26:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:26:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:42:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:42:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:42:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:42:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 15:42:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 15:42:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:28:55 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:28:55 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:28:55 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:28:55 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:30:53 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:30:53 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:30:59 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:30:59 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:31:20 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:31:20 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:33:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:33:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:33:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:33:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:33:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:33:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:33:23 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:33:23 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 18:33:39 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 18:33:39 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:15:27 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:15:27 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:15:27 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:15:27 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:25:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:25:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:25:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:25:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:41:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:41:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:41:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:41:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:41:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:41:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:41:44 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:41:44 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 19:42:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 19:42:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:14:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:14:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:14:20 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:14:20 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:21:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:21:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:21:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:21:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:21:26 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:21:26 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:21:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:21:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:23:59 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:23:59 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:23:59 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:23:59 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:24:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:24:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:24:11 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:24:11 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:26:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:26:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:26:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:26:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:26:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:26:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:26:34 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:26:34 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:28:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:28:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:28:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:28:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:28:14 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:28:14 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:28:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:28:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:30:42 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:30:42 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:30:42 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:30:42 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:30:44 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:30:44 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:30:53 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:30:53 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:32:51 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:32:51 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:33:19 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:33:19 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:33:59 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:33:59 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:36:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:36:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:36:27 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:36:27 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:36:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:36:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:36:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:36:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:36:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:36:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:36:30 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:36:30 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:38:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:38:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:38:55 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:38:55 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:38:55 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:38:55 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:38:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:38:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:39:43 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:39:43 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:39:43 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:39:43 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:39:43 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:39:43 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:41:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:41:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:41:21 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:41:21 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:42:58 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:42:58 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:43:12 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:43:12 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:16 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:16 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:16 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:16 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:17 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:17 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:26 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:26 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:48 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:48 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:48 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:48 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:49 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:49 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:46:57 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:46:57 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:48:26 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:48:26 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:48:26 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:48:26 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:48:27 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:48:27 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:48:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:48:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:49:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:49:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:52:21 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:52:21 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 20:56:38 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 20:56:38 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:00:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:00:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:00:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:00:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:00:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:00:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:00:14 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:00:14 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:04:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:04:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:04:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:04:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:04:57 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:04:57 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:05:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:05:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:05:36 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:05:36 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:12:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:12:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:12:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:12:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:12:16 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:12:16 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:13:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:13:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:13:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:13:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:13:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:13:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:13:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:13:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:13:56 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:13:56 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:13:57 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:13:57 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:16:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:16:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:17:32 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:17:32 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:17:32 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:17:32 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:17:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:17:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:18:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:18:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:18:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:18:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:21:27 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:21:27 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:21:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:21:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:21:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:21:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:21:30 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:21:30 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:21:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:21:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:21:42 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:21:42 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:29:37 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:29:37 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:32:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:32:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:32:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:32:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:32:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:32:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:32:14 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:32:14 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:33:05 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:33:05 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:34:47 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:34:47 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:34:47 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:34:47 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:34:47 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:34:47 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:38:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:38:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:38:40 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:38:40 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:47:06 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:47:06 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:47:06 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:47:06 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:54:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:54:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:54:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:54:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:54:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:54:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:54:38 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:54:38 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:54:58 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:54:58 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:59:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:59:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:59:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:59:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 21:59:08 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 21:59:08 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:00:12 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:00:12 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:00:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:00:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:00:18 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:00:18 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:00:18 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:00:18 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:00:47 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:00:47 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:01:28 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:01:28 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:02:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:02:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:11:48 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:11:48 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:12:00 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:12:00 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:14:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:14:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:14:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:14:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:15:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:15:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:15:13 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:15:13 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:15:15 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:15:15 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:15:20 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:15:20 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:17:58 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:17:58 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:17:58 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:17:58 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:18:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:18:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:18:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:18:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:18:02 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:18:02 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:18:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:18:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:20:18 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:20:18 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:20:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:20:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:20:24 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:20:24 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:20:25 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:20:25 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:22:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:22:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:22:29 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:22:29 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:22:30 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:22:30 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:22:54 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:22:54 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:26:02 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:26:02 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:26:02 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:26:02 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:26:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:26:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:27:51 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:27:51 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:27:51 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:27:51 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:27:52 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:27:52 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:29:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:29:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:29:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:29:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:30:44 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:30:44 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:30:44 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:30:44 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:31:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:31:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:31:41 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:31:41 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:01 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:01 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:03 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:03 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:05 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:05 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:05 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:05 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:10 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:10 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:57 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:57 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:57 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:57 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:32:58 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:32:58 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:07 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:07 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:07 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:07 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:12 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:12 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:35 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:35 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:37 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:37 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:53 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:53 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:53 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:53 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:33:54 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:33:54 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:34:07 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:34:07 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:34:07 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:34:07 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[22-Oct-2025 22:34:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[22-Oct-2025 22:34:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 00:29:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 00:29:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 00:29:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 00:29:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 00:30:04 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 00:30:04 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 00:30:45 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 00:30:45 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 01:13:09 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 01:13:09 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 01:28:33 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 01:28:33 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+
+[23-Oct-2025 01:31:05 Europe/Berlin] SQL Query: SELECT p.*, c.nombre as categoria_nombre 
+            FROM productos p 
+            LEFT JOIN categorias c ON p.categoria_id = c.id ORDER BY p.nombre ASC LIMIT ?, ?
+[23-Oct-2025 01:31:05 Europe/Berlin] Parameters: Array
+(
+    [0] => 0
+    [1] => 10
+)
+

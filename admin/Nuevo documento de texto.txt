@@ -1,0 +1,43 @@
+USE tienda_admin;
+
+-- Eliminar triggers antiguos si existen
+DELIMITER //
+
+DROP TRIGGER IF EXISTS before_insert_productos;
+//
+DROP TRIGGER IF EXISTS before_update_productos;
+//
+
+DELIMITER ;
+
+-- Trigger para INSERT
+DELIMITER //
+
+CREATE TRIGGER before_insert_productos
+BEFORE INSERT ON productos
+FOR EACH ROW
+BEGIN
+    IF NEW.imagen_url IS NOT NULL AND NEW.imagen_url NOT LIKE 'http%' THEN
+        SET NEW.imagen_url = CONCAT('http://localhost/tienda/admin/', NEW.imagen_url);
+    END IF;
+END;
+//
+
+-- Trigger para UPDATE
+CREATE TRIGGER before_update_productos
+BEFORE UPDATE ON productos
+FOR EACH ROW
+BEGIN
+    IF NEW.imagen_url IS NOT NULL AND NEW.imagen_url NOT LIKE 'http%' THEN
+        SET NEW.imagen_url = CONCAT('http://localhost/tienda/admin/', NEW.imagen_url);
+    END IF;
+END;
+//
+
+DELIMITER ;
+
+-- Actualizar las imágenes existentes
+UPDATE productos
+SET imagen_url = CONCAT('http://localhost/tienda/admin/', imagen_url)
+WHERE imagen_url IS NOT NULL
+  AND imagen_url NOT LIKE 'http%';
